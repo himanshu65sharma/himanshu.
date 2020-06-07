@@ -1,7 +1,7 @@
 
 
-<!DOCTYPE html>
-hi this is my firat code
+
+
 <html>
 
 <body>
