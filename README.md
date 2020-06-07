@@ -13,7 +13,7 @@
 
   <div class="dcoder">
     This is a html example from Dcoder,
-    <img src="https://images.app.goo.gl/p5J1f27T55kVjvkd8">
+    <img src="https://images.app.goo.gl/p5J1f27T55kVjvkd8.jpg">
         <br>
         have fun. :)
     </div>
