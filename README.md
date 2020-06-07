@@ -2,21 +2,27 @@
 
 <!DOCTYPE html>
 <html>
-
+<title>
+    Himanshu's first website
+    <\title>
 <body>
+ <h1>himanshu's first website</h1>
+  <h2> to kaise hai ap long <\h2>
+      <h3>rgpv ke anokhi university
+          <img src="https://www.rgpv.ac.in/images/logo.png"> <\h3>
+         <p>
+             ha to baki sabhi universities ke jaise ap ko lgra ho ga ki
+             <ul>
+                 <li>aap ko bhi general promotion milega<\li>
+                    <li>ap bhi bina padhe pas ho jayenga <\li>
+                        </ul>
+                        par aji <strong><em> ghanta <\em><\strong>
+                        <strong>
+                            app paper doge <br> doge<br> aur doge
+                            <\p>
 
-    <!-->
+   
 
-  <h1>
-      hi iam himanshu
-  </h1>
-
-  <div class="dcoder">
-    This is a html example from Dcoder,
-    <img src="https://images.app.goo.gl/p5J1f27T55kVjvkd8.jpg">
-        <br>
-        have fun. :)
-    </div>
 
 </body>
 </html>
